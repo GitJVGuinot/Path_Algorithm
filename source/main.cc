@@ -1,3 +1,6 @@
+/// @file main.cc
+/// @author guinot Almenar, F.c.o Javier <whitewholffox@gmail.com>
+
 #include <iostream>
 #include <vector>
 #include <queue>
