@@ -1,4 +1,4 @@
-# Athor guinot Almenar, F.c.o Javier
+# Athor guinot Almenar, F.c.o Javier <whitewholffox@gmail.com>
 
 import heapq
 from typing import List, Tuple
