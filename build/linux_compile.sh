@@ -1,0 +1,1 @@
+g++ -fdiagnostics-color=always -g -O0 -Wall ../src/main.cc ../src/astar_2d.cc -o ../bin/main.elf -m64 -Bstatic -pedantic -std=c++17 -I../includes -I../deps/includes
